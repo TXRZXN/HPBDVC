@@ -58,7 +58,7 @@ const MEMORIES: Memory[] = [
     date: "8 กันยายน 2566",
     title: "เดทแรกของเรา",
     description: "เดทแรกที่สนามแบด",
-    image: "/0.jpg",
+    image: "memory/0.jpg",
     fullDescription: "ตีแบดวันนั้น เหนื่อยแค่ตัว…แต่รักเธอนี่เหนื่อยใจทุกวัน",
   },
   {
@@ -66,7 +66,7 @@ const MEMORIES: Memory[] = [
     date: "25 พฤศจิกายน 2566",
     title: "วันที่ตกลงเป็นแฟนกัน",
     description: "วันที่เราตกลงปลงใจเป็นแฟนกัน",
-    image: "/1.jpg",
+    image: "memory/1.jpg",
     fullDescription:
       "วันที่เราตกลงปลงใจเป็นแฟนกัน ยังจำได้เลยว่าตื่นเต้นแค่ไหน ทุกอย่างมันเริ่มต้นจากวันนี้",
   },
@@ -75,7 +75,7 @@ const MEMORIES: Memory[] = [
     date: "10 เมษายน 2566",
     title: "ทริปแรกด้วยกัน",
     description: "ไปเที่ยวทะเลด้วยกันครั้งแรก",
-    image: "/2.jpg",
+    image: "memory/2.jpg",
     fullDescription: "ทริปพัทยาที่เราได้เห็นพระอาทิตย์ตกด้วยกัน โรแมนติกสุดๆ",
   },
   {
@@ -83,7 +83,7 @@ const MEMORIES: Memory[] = [
     date: "4 ธันวาคม 2567",
     title: "ขับรถขึ้นดอย",
     description: "ขึ้นดอยด้วยกันครั้งแรก",
-    image: "/3.jpg",
+    image: "memory/3.jpg",
     fullDescription: "บางทริปไม่ได้พาเราไปไกล…แต่มันพาเราใกล้กันขึ้น",
   },
   {
@@ -91,7 +91,7 @@ const MEMORIES: Memory[] = [
     date: "23 ตุลาคม 2568",
     title: "นั่งเครื่องลงใต้",
     description: "ทริปที่ทำให้เรารักความธรรมดา",
-    image: "/4.jpg",
+    image: "memory/4.jpg",
     fullDescription: "ทริปที่มีทั้งความรักของคนอื่น…และความรักของเรา",
   },
   {
@@ -99,7 +99,7 @@ const MEMORIES: Memory[] = [
     date: "25 พฤศจิกายน 2568",
     title: "ครบรอบ 2 ปี",
     description: "ผ่านมา 731 วันแล้ว!",
-    image: "/5.jpg",
+    image: "memory/5.jpg",
     fullDescription:
       "ครบรอบปีที่สองของเรา ขอบคุณที่เป็นส่วนหนึ่งของชีวิตตลอดสองปีที่ผ่านมา รักเธอมากนะ",
   },
