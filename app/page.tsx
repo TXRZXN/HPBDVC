@@ -109,63 +109,64 @@ const MEMORIES: Memory[] = [
 const GALLERY_PHOTOS = [
   {
     id: 1,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "ช่วงเวลาแรกๆ ของเรา",
+    src: "gallery/Graduate.jpg",
+    caption: "ถ่ายรูปรับปริญญา",
   },
   {
     id: 2,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "เดทวันหยุดสุดสัปดาห์",
+    src: "gallery/ChinaTown.jpg",
+    caption: "China Town",
   },
   {
     id: 3,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "ทริปทะเลด้วยกัน",
+    src: "gallery/TTouch.jpg",
+    caption: "T Touch Cafe",
   },
   {
     id: 4,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "ฉลองวันพิเศษ",
+    src: "gallery/KohKred.jpg",
+    caption: "เกาะเกร็ด",
   },
   {
     id: 5,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "คาเฟ่ที่ชอบ",
+    src: "gallery/Temple.jpg",
+    caption: "วัดเล่งเน่ยยี่ 2",
   },
   {
     id: 6,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "ดูพระอาทิตย์ตกด้วยกัน",
+    src: "gallery/BangkokSea.jpg",
+    caption: "สวมสยาม",
   },
   {
     id: 7,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "งานเลี้ยงปีใหม่",
+    src: "gallery/Valentine.jpg",
+    caption: "Valentine's Day",
   },
   {
     id: 8,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "วันครบรอบของเรา",
+    src: "gallery/OiPoi.jpg",
+    caption: "โอ้ะปอย",
   },
   {
     id: 9,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "วันครบรอบของเรา",
+    src: "gallery/Samui.jpg",
+    caption: "สมุย",
   },
+
   {
     id: 10,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "วันครบรอบของเรา",
+    src: "gallery/Ampwa.jpg",
+    caption: "อัมพวา",
   },
   {
     id: 11,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "วันครบรอบของเรา",
+    src: "gallery/Christmas.jpg",
+    caption: "Christmas's Day",
   },
   {
     id: 12,
-    src: "/placeholder.svg?height=400&width=400",
-    caption: "วันครบรอบของเรา",
+    src: "gallery/SevenKot.jpg",
+    caption: "เดินป่าด้วยกัน",
   },
 ];
 
